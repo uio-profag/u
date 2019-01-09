@@ -7,50 +7,11 @@ sidebar_link: True
 
 
 {% include module_links.html 
-title="Hva kan vi bruke programmering til?" 
-forelesningsnotat="./hva_programmering" 
+title="Sparing og Lån" 
+forelesningsnotat="./sparing_og_lan" 
 slides="" 
 oppgaver=""
 losningsforslag = ""
 published=true
 %}
 
-
-{% include module_links.html 
-title="" 
-forelesningsnotat="./Input" 
-slides="" 
-oppgaver=""
-losningsforslag = ""
-published=true
-%}
-
-{% include module_links.html 
-title="Beslutninger" 
-forelesningsnotat="./Tester" 
-slides="" 
-oppgaver=""
-losningsforslag = ""
-published=true
-%}
-
-
-
-{% include module_links.html 
-title="Plotting" 
-forelesningsnotat="./plotting" 
-slides="" 
-oppgaver=""
-losningsforslag = ""
-published=true
-%}
-
-
-{% include module_links.html 
-title="Funksjoner" 
-forelesningsnotat="./funksjoner" 
-slides="" 
-oppgaver=""
-losningsforslag = ""
-published=true
-%}

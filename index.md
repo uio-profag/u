@@ -1,17 +1,9 @@
 ---
 layout: page
-title: Profag:Boilerplate
+title: Profag:U
 sidebar_link: false
 ---
 
-Dette er en testside. 
+Dette er nettressurser som hører til øktene i ProFag:U. De er egnet til å repetere, og kan også brukes til kursing av lærere som ikke har vært på kurs hod ProFag. 
 
-`index.md` inneholder forsiden
-
-Resten av innholdet legges i `pages` (og underdirectories). Sider med `sidebar_link=true` kommer opp i venstremenyen. Resten må eksplisitt lenkes opp fra andre sider for å kunne navigeres til. 
-
-Man kan legge inn enten markdown-dokumenter eller jupyter notebooks. I tilfellet jupyter notebook vil denne automatisk konverteres til markdown på travis CI før publisering av nettsiden. 
-
-For at integreringen med github deployment skal fungere trenger man å legge til en github token i Travis. 
-
-Navnet på kurset (og annen konfigurasjon om man skulle ønske det) settes i `_config.yml`.
+I menyen til venstre finnes litt informasjon on hvordan man kommer i gang, primært installasjon av nødvendig programvare. Deretter følger selve kursmodulene, som svarer til øktene som har vært arrangert på ProFag-kursene. Til slutt kommer litt ekstramateriale, som er egnet til repetisjon og til fordypning. 
