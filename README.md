@@ -1,5 +1,5 @@
-# Kursside for ProFag:VGS
-[![Build Status](https://travis-ci.org/uio-profag/vgs.svg?branch=master)](https://travis-ci.org/uio-profag/vgs)
+# Kursside for ProFag:U
+[![Build Status](https://travis-ci.com/uio-profag/u.svg?branch=master)](https://travis-ci.com/uio-profag/u)
 
 `index.md` inneholder forsiden
 
