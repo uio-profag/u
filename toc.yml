@@ -1,0 +1,28 @@
+
+- title: "Velkommen til kurset"
+  url: /index
+  not_numbered: true
+
+- title: "Forberedelser"
+  url: /intro/intro
+  not_numbered: true
+  sections:
+  - title: "Installasjon på mac"
+    url: /intro/mac/anaconda_mac
+    not_numbered: true
+  #- title: "Installasjon på windows"
+  #  url: /intro/windows/anaconda_windows
+
+- title: "Moduler"
+  url: /moduler/moduler
+  not_numbered: true
+  expand_sections: true
+  sections: 
+  - title: "Sparing og lån" 
+    url: /moduler/sparing_og_lan
+    not_numbered: true
+
+- title: "Oppfølging"
+  url: /oppfolging/oppfolging
+  not_numbered: true
+  expand_sections: false

@@ -1,18 +1,10 @@
-# Kursside for ProFag:VGS
+# Kursside for ProFag:U
 [![Build Status](https://travis-ci.org/uio-profag/vgs.svg?branch=master)](https://travis-ci.org/uio-profag/vgs)
 
-`index.md` inneholder forsiden
+Innholdet legges i `content` (og underdirectories). 
 
-Resten av innholdet legges i `pages` (og underdirectories). Sider med `sidebar_link=true` kommer opp i venstremenyen. Resten må eksplisitt lenkes opp fra andre sider for å kunne navigeres til. 
+Dette innholdet lenkes til med innholdsfortegnelsen i `toc.yml`. Denne kan se noe frastøtende ut ved første øyekast, men hovedregelen er å følge mønsteret fra det andre som allede står der. Om man gjør noe feil får det bare konsekvense om feilen var å fjerne oppføringer (slik at innhold blir borte fra nettsiden). Alle feil som har med syntakt å gjøre fører bare til at nettsiden ikke publiseres, altså forblir nettsiden som den var. 
 
-På denne siden har vi 
+Man kan legge inn enten markdown-dokumenter eller jupyter notebooks. I tilfellet jupyter notebook vil denne automatisk konverteres til markdown før nettsiden blir til. 
 
-1. Introduksjon/kom i gang 
-2. Moduler (inneholder alle delene av kurset som vi underviser)
-3. Veien videre (etterarbeid)
 
-Delene med moduler og veien videre lenker videre til flere sider som vi lager med jupyter notebooks. 
-
-Man kan legge inn enten markdown-dokumenter eller jupyter notebooks. I tilfellet jupyter notebook vil denne automatisk konverteres til markdown på travis CI før publisering av nettsiden. 
-
-For at integreringen med github deployment skal fungere trenger man å legge til en github token i Travis. 

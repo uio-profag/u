@@ -1,8 +1,4 @@
----
-layout: page
-title: Hjemmearbeid
-sidebar_link: true
----
+# Hjemmearbeid
 
 ProFag er et intensivkurs der det blir best resultat om du jobber en del på egen hånd. Her finner du ressurser som egner seg til jobbing mellom kursdagene.s
 

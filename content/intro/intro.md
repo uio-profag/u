@@ -1,8 +1,4 @@
----
-layout: page
-title: Bli klar til kurs
-sidebar_link: true
----
+# Bli klar til kurs
 
 Før du kommer på kurs trenger vi at du har installert programvare og sjekket at den fungerer. Vi skal bruke *Spyder* med `pylab` som programmeringsmiljø. En enkel måte å installere dette på er ved å installere *Anaconda*. 
 
