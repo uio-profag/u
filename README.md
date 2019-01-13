@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/uio-profag/u.svg?branch=master)](https://travis-ci.com/uio-profag/u)
 
-Innholde i form av jupyter notebooks og markdown-filer legges i `content` (og underdirectories). 
+Innhold, i form av jupyter notebooks og markdown-filer, legges i `content` (og underdirectories). 
 
 Dette innholdet lenkes til med innholdsfortegnelsen i `toc.yml`. Denne kan se noe frastøtende ut ved første øyekast, men hovedregelen er å følge mønsteret fra det andre som allede står der. Om man gjør noe feil får det bare konsekvense om feilen var å fjerne oppføringer (slik at innhold blir borte fra nettsiden). Alle feil som har med syntakt å gjøre fører bare til at nettsiden ikke publiseres, altså forblir nettsiden som den var. 
 
