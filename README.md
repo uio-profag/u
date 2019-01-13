@@ -1,5 +1,6 @@
 # Kursside for ProFag:U
-[![Build Status](https://travis-ci.org/uio-profag/vgs.svg?branch=master)](https://travis-ci.org/uio-profag/vgs)
+
+[![Build Status](https://travis-ci.com/uio-profag/u.svg?branch=master)](https://travis-ci.com/uio-profag/u)
 
 Innholdet legges i `content` (og underdirectories). 
 
