@@ -13,14 +13,24 @@
   #- title: "Installasjon på windows"
   #  url: /intro/windows/anaconda_windows
 
-- title: "Moduler"
+- title: "Begynneropplæring i python for realfagslærere i ungdomsskolen"
   url: /moduler/moduler
-  not_numbered: true
+  not_numbered: false
   expand_sections: true
   sections: 
   - title: "Sparing og lån" 
     url: /moduler/sparing_og_lan
     not_numbered: true
+
+- title: "Programmering styrker fagene"
+  url: /styrker/styrker
+  not_numbered: false
+  expand_sections: true
+
+- title: "Programmering endrer fagene"
+  url: /endrer/endrer
+  not_numbered: false
+  expand_sections: true
 
 - title: "Oppfølging"
   url: /oppfolging/oppfolging
