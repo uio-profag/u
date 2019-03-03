@@ -28,8 +28,8 @@
   expand_sections: true
   sections: 
   - title: "Funksjoner"
-  url: /styrker/funksjoner
-  not_numbered: false
+    url: /styrker/funksjoner
+    not_numbered: false
 
 - title: "Programmering endrer fagene"
   url: /endrer/endrer
